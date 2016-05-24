@@ -1,4 +1,13 @@
 .wow {
-	text-decoration:none;
-	color: black;
+	font-family: 'Raleway', sans-serif;
+}
+.color {
+	font-family: 'Raleway', sans-serif;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+.select {
+	font-family: 'Raleway', sans-serif;
 }
